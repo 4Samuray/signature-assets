@@ -1,0 +1,2 @@
+# signature-assets
+Company Signature
